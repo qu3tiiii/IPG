@@ -1,3 +1,0 @@
-pip install discord_webhook
-pip install pybase64
-pip install sockets
