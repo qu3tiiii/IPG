@@ -1,4 +1,3 @@
-pip install requests
 pip install thread6
 pip install discord_webhook
 pip install base64
